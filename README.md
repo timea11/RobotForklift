@@ -1,4 +1,4 @@
-3D Robot_Forklifter (hover to see the title text):
+3D Robot_Forklifter
 
 ![](https://imgur.com/UqZAYcg.png)
 
